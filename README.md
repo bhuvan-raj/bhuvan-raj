@@ -10,13 +10,13 @@
 - ⚡ Fun fact **I’m a polymath enthusiast and don’t like to confine myself to a single aspect**
 
 ## Languages and Tools:
-<div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: center; justify-content: center;">
-  <div style="margin: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 60px; align-items: center; justify-content: center;">
+  <div style="margin: 10px;gap: 60px;">
     <a href="https://aws.amazon.com" target="_blank">
       <img src="https://www.neoskills.co.in/wp-content/uploads/2024/09/aws-1.png" alt="AWS" width="70" height="70" />
     </a>
   </div>
-  <div style="margin: 10px;">
+  <div style="margin: 10px;gap: 60px;">
     <a href="https://www.docker.com" target="_blank">
       <img src="https://res.cloudinary.com/hugs4bugs/image/upload/v1703441731/hugs4bugs/01-primary-blue-docker-logo_rl8tst.png" alt="Docker" width="70" height="70" />
     </a>
