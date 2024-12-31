@@ -10,7 +10,7 @@
 - ⚡ Fun fact **I’m a polymath enthusiast and don’t like to confine myself to a single aspect**
 
 ## Languages and Tools:
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; justify-content: flex-start;">
   <a href="https://signin.aws.amazon.com/signin?client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fcanvas&redirect_uri=https%3A%2F%2Fap-south-1.console.aws.amazon.com%2Fconsole%2Fhome%3FhashArgs%3D%2523%26isauthcode%3Dtrue%26nc2%3Dh_ct%26region%3Dap-south-1%26src%3Dheader-signin%26state%3DhashArgsFromTB_ap-south-1_136cc8e3f57c8f59&page=resolve&code_challenge=8KC2VHbWJ3nUaAGY-YlHyRfwRZpQQAXCm5kJu-BuYI8&code_challenge_method=SHA-256&backwards_compatible=true" target="_blank">
     <img src="https://www.neoskills.co.in/wp-content/uploads/2024/09/aws-1.png" alt="AWS" width="50" height="50" />
   </a>
@@ -35,7 +35,7 @@
 </div>
 
 ## Connect with me:
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 20px;">
   <a href="https://www.linkedin.com/in/bhuvan-raj-2046b92b9/" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" alt="LinkedIn" width="50" height="50" />
   </a>
