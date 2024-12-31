@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/DaxZVL6" alt="Banner" />
+<img src="https://github.com/bhuvan-raj/bhuvan-raj/blob/main/Beige%20Minimalist%20Personal%20Business%20LinkedIn%20Banner.png" alt="Banner" />
 
 # Hi 👋, I'm Bhuvan Raj
 
