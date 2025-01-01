@@ -27,7 +27,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Android_Studio_Logo_2024.svg/800px-Android_Studio_Logo_2024.svg.png" alt="Android Studio" width="60" style="margin: 0 30px;" />
   </a>
   <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="60" style="margin: 0 30px;" />
+    <img src="https://quantumzeitgeist.com/wp-content/uploads/pythoned.png" width="60" style="margin: 0 30px;" />
   </a>
   <a href="https://www.linux.org" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" alt="Linux" width="60" style="margin: 0 30px;" />
