@@ -18,19 +18,19 @@
     <img src="https://res.cloudinary.com/hugs4bugs/image/upload/v1703441731/hugs4bugs/01-primary-blue-docker-logo_rl8tst.png" alt="Docker" width="150" style="margin: 0 30px;" />
   </a>
   <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://blog.christianposta.com/images/kube.png" alt="Kubernetes" width="60" style="margin: 0 30px;" />
+    <img src="https://blog.christianposta.com/images/kube.png" alt="Kubernetes" width="100" style="margin: 0 30px;" />
   </a>
   <a href="https://flutter.dev" target="_blank">
-    <img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" alt="Flutter" width="60" style="margin: 0 30px;" />
+    <img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" alt="Flutter" width="100" style="margin: 0 30px;" />
   </a>
   <a href="https://developer.android.com/studio" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Android_Studio_Logo_2024.svg/800px-Android_Studio_Logo_2024.svg.png" alt="Android Studio" width="60" style="margin: 0 30px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Android_Studio_Logo_2024.svg/800px-Android_Studio_Logo_2024.svg.png" alt="Android Studio" width="100" style="margin: 0 30px;" />
   </a>
   <a href="https://www.python.org" target="_blank">
-    <img src="https://quantumzeitgeist.com/wp-content/uploads/pythoned.png" width="60" style="margin: 0 30px;" />
+    <img src="https://quantumzeitgeist.com/wp-content/uploads/pythoned.png" width="100" style="margin: 0 30px;" />
   </a>
   <a href="https://www.linux.org" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" alt="Linux" width="60" style="margin: 0 30px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" alt="Linux" width="100" style="margin: 0 30px;" />
   </a>
 </p>
 
