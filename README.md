@@ -15,7 +15,7 @@
     <img src="https://www.neoskills.co.in/wp-content/uploads/2024/09/aws-1.png" alt="AWS" width="100" style="margin: 0 30px;" />
   </a>
   <a href="https://www.docker.com" target="_blank">
-    <img src="https://res.cloudinary.com/hugs4bugs/image/upload/v1703441731/hugs4bugs/01-primary-blue-docker-logo_rl8tst.png" alt="Docker" width="60" style="margin: 0 30px;" />
+    <img src="https://res.cloudinary.com/hugs4bugs/image/upload/v1703441731/hugs4bugs/01-primary-blue-docker-logo_rl8tst.png" alt="Docker" width="100" style="margin: 0 30px;" />
   </a>
   <a href="https://kubernetes.io/" target="_blank">
     <img src="https://blog.christianposta.com/images/kube.png" alt="Kubernetes" width="60" style="margin: 0 30px;" />
