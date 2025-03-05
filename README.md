@@ -4,7 +4,7 @@
 
 **DevOps and Cloud Advocate, with a passion for Open Source and Android Development**
 
-- 🌱 I’m currently learning **Flutter, Android App Development, and DevOps**
+- 🌱  Currently learning **Flutter, Android App Development, and DevOps**
 - 💬 Ask me about **DevOps, Cloud, Android Studio, Linux, and Open Source**
 - 📫 How to reach me **[bhuvanraj107123@gmail.com](mailto:bhuvanraj107123@gmail.com)**
 - ⚡ Fun fact **I’m a polymath enthusiast and don’t like to confine myself to a single aspect**
