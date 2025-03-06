@@ -40,6 +40,6 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" alt="LinkedIn" width="60" style="margin: 0 30px;" />
   </a>
 </p>
-<p>
+
   ![](flames.gif)
-</p>
+
