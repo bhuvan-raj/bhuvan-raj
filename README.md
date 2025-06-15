@@ -1,3 +1,4 @@
+<img src="https://github.com/bhuvan-raj/bhuvan-raj/blob/main/Beige%20Minimalist%20Personal%20Business%20LinkedIn%20Banner.png" alt="Banner" />
 # Hi 👋, I'm Bhuvan Raj
 
 **DevOps and Cloud Advocate, with a passion for Open Source and Android Development**
@@ -52,8 +53,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=bhuvan-raj&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 Support me on my journey!
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://coff.ee/bhuvan.raj) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
