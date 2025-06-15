@@ -9,6 +9,7 @@
 - 📫 How to reach me **[bhuvanraj107123@gmail.com](mailto:bhuvanraj107123@gmail.com)**
 - ⚡ **I’m a polymath enthusiast **
 
+
 ## Languages and Tools:
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank">
@@ -33,6 +34,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" alt="Linux" width="100" style="margin: 0 30px;" />
   </a>
 </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bhuvan-raj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ## Connect with me:
 <p align="center">
