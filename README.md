@@ -1,4 +1,4 @@
-<img src="https://github.com/bhuvan-raj/bhuvan-raj/blob/main/Beige%20Minimalist%20Personal%20Business%20LinkedIn%20Banner.png" alt="Banner" />
+<img src="https://github.com/bhuvan-raj/bhuvan-raj/blob/main/Banner.png" alt="Banner" />
 # Hi 👋, I'm Bhuvan Raj
 
 **DevOps and Cloud Advocate, with a passion for Open Source and Android Development**
