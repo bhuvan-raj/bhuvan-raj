@@ -1,5 +1,4 @@
 <img src="https://github.com/bhuvan-raj/bhuvan-raj/blob/main/banner.png" alt="Banner" />
-<img src="https://github.com/bhuvan-raj/bhuvan-raj/blob/main/banner2.png" alt="Banner" />
 # Hi 👋, I'm Bhuvan Raj
 
 **DevOps and Cloud Advocate, with a passion for Open Source and Android Development**
