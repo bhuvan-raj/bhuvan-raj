@@ -1,5 +1,5 @@
 
-<img src="https://github.com/bhuvan-raj/bhuvan-raj/blob/main/assets/dp3.gif" alt="Banner" />
+<img src="https://github.com/bhuvan-raj/bhuvan-raj/blob/main/assets/dp2.gif" alt="Banner" width="400" height="300" />
 
 ## Hi 👋, I'm Bhuvan Raj
 
