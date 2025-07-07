@@ -1,14 +1,38 @@
 
 <img src="https://github.com/bhuvan-raj/bhuvan-raj/blob/main/assets/dp2.gif" alt="Banner" width="900" height="350" />
 
-## Hi 👋, I'm Bhuvan Raj
 
-**DevOps and Cloud Advocate, with a passion for Open Source and Android Development**
 
-- 🌱  Currently learning **Flutter, Android App Development, and DevOps**
-- 💬 Ask me about **DevOps, Cloud, Android Studio, Linux, and Open Source**
-- 📫 How to reach me **[bhuvanraj107123@gmail.com](mailto:bhuvanraj107123@gmail.com)**
-- ⚡ **I’m a polymath enthusiast **
+---
+
+## 👋 Hi there! I'm **Bhuvan Raj**
+
+🚀 *DevOps & Cloud Enthusiast | Android Developer (Dart)  | Open Source Advocate*
+
+---
+
+### 🌟 About Me
+
+I'm a passionate technologist exploring the intersections of **DevOps**, **Cloud Computing**, and **Mobile App Development**. With a strong foundation in Linux and a curiosity-driven mindset, I love building reliable systems and contributing to the developer community.
+
+---
+
+### 🔧 What I’m Working On
+
+* 📦 Improving my expertise in **Kubernetes, Docker, and CI/CD pipelines**
+* ☁️ Learning to architect systems using **Terraform, AWS, and GitHub Actions**
+* 📱 Building cross-platform mobile apps using **Flutter and Android Studio**
+* 🛠️ Actively contributing to **open source projects** and DevOps labs
+
+---
+
+### 💬 Let's Connect
+
+Feel free to reach out if you're interested in DevOps, Open Source, or just want to chat about Cloud-native tech!
+
+* 📫 Email: [bhuvanraj107123@gmail.com](mailto:bhuvanraj107123@gmail.com)
+* 💡 Ask me about: **Linux, DevOps, Android Development, Cloud Platforms, and Open Source**
+* ⚡ Fun Fact: I'm a **polymath-in-progress** who loves learning across domains!
 
 
 ## 🌐 Socials:
