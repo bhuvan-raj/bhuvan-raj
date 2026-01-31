@@ -1,60 +1,91 @@
+<img src="https://github.com/bhuvan-raj/bhuvan-raj/blob/main/assets/aba.gif" alt="Banner" width="100%" height="320"/>
 
-<img src="https://github.com/bhuvan-raj/bhuvan-raj/blob/main/assets/aba.gif" alt="Banner" width="900" height="350" />
+# 👋 Bhuvan Raj
 
+**DevOps Engineer | Cloud & Kubernetes Enthusiast | Open-Source Contributor**
 
-### 👋 Hi there! I'm **Bhuvan Raj**
-
-🚀 *DevOps & Cloud Enthusiast | Android Developer (Dart)  | Open Source Advocate*
-
----
-
-### 🌟 About Me
-
-I'm a passionate technologist exploring the intersections of **DevOps**, **Cloud Computing**, and **Mobile App Development**. With a strong foundation in Linux and a curiosity-driven mindset, I love building reliable systems and contributing to the developer community.
+📍 India  
+📧 bhuvanraj107123@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/bhuvan-raj-2046b92b9/)
 
 ---
 
-### 🔧 What I’m Working On
+## 🚀 Professional Summary
 
-* 📦 Improving my expertise in **Kubernetes, Docker, and CI/CD pipelines**
-* ☁️ Learning to architect systems using **Terraform, AWS, and GitHub Actions**
-* 📱 Building cross-platform mobile apps using **Flutter and Android Studio**
-* 🛠️ Actively contributing to **open source projects** and DevOps labs
+Results-driven **DevOps and Cloud Engineer** with hands-on experience in designing, automating, and managing cloud-native infrastructure. Strong foundation in **Linux, containers, Kubernetes, CI/CD pipelines, and Infrastructure as Code (IaC)**. Passionate about building scalable, secure, and reliable systems while contributing to open-source and mentoring learners in DevOps practices.
 
 ---
 
-### 💬 Let's Connect
+## 🔧 Core Competencies
 
-Feel free to reach out if you're interested in DevOps, Open Source, or just want to chat about Cloud-native tech!
-
-* 📫 Email: [bhuvanraj107123@gmail.com](mailto:bhuvanraj107123@gmail.com)
-* 💡 Ask me about: **Linux, DevOps, Android Development, Cloud Platforms, and Open Source**
-* ⚡ Fun Fact: I'm a **polymath-in-progress** who loves learning across domains!
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhuvan-raj-2046b92b9/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhuvanraj107123@gmail.com) 
-
-
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bhuvan-raj&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bhuvan-raj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan-raj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bhuvan-raj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bhuvan-raj&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
+- **Cloud Platforms:** AWS, Azure, Google Cloud  
+- **Containerization & Orchestration:** Docker, Kubernetes  
+- **Infrastructure as Code:** Terraform  
+- **CI/CD & Automation:** GitHub Actions, Jenkins  
+- **Monitoring & Observability:** Prometheus, Grafana  
+- **Databases & Messaging:** PostgreSQL, Apache Kafka  
+- **Version Control & Collaboration:** GitHub, GitLab, Jira, Trello  
+- **Scripting & Languages:** Bash, Python  
+- **Mobile Development (Secondary):** Flutter, Dart  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bhuvan-raj&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 Support me on my journey!
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://coff.ee/bhuvan.raj) 
+## 🛠️ Current Focus
 
+- Architecting production-ready Kubernetes workloads  
+- Designing CI/CD pipelines with security and scalability in mind  
+- Building cloud infrastructure using Terraform with best practices  
+- Implementing monitoring, alerting, and reliability patterns  
+- Contributing to DevOps labs and open-source repositories  
 
+---
+
+## 💻 Tech Stack
+
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhuvan-raj&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=bhuvan-raj&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan-raj&layout=compact&theme=dark&hide_border=false)
+
+---
+
+## 🏆 Achievements
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bhuvan-raj&theme=tokyonight&no-frame=true&margin-w=4)
+
+---
+
+## 🤝 Open to Opportunities
+
+I’m interested in:
+- DevOps / Cloud Engineer roles  
+- Platform Engineering  
+- SRE & Infrastructure Automation  
+- Open-source collaboration  
+
+If you're building reliable systems or scaling cloud infrastructure, let’s connect.
+
+---
+
+## ☕ Support My Work
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://coff.ee/bhuvan.raj)
+
+![Profile Views](https://visitcount.itsvg.in/api?id=bhuvan-raj&icon=0&color=0)
