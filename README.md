@@ -10,7 +10,6 @@
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=bhuvan-raj&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan-raj&layout=compact&theme=dark&hide_border=false)
 
 ## Support My Work
 
