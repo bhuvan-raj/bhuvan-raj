@@ -7,7 +7,6 @@
 🔗 [LinkedIn](https://linkedin.com/in/bhuvan-raj-2046b92b9/)
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhuvan-raj&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=bhuvan-raj&theme=dark&hide_border=false)
 
