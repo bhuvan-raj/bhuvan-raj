@@ -1,6 +1,6 @@
 <img src="https://github.com/bhuvan-raj/bhuvan-raj/blob/main/assets/aba.gif" alt="Banner" width="100%" height="320"/>
 
-**DevOps | DevSecOps | PlatformManagement | Open-Source Advocate**
+**DevSecOps | MLOps (Aspiring) | PlatformEngineering | Open-Source Advocate**
 
 📍 India  
 📧 bhuvanraj-k@proton.me  
