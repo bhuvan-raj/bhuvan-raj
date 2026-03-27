@@ -1,13 +1,17 @@
 <img src="https://github.com/bhuvan-raj/bhuvan-raj/blob/main/assets/aba.gif" alt="Banner" width="100%" height="320"/>
 
-**DevOps | DevSecOps | InfraManagement | Open-Source Advocate**
+**DevOps | DevSecOps | PlatformManagement | Open-Source Advocate**
 
 📍 India  
 📧 bhuvanraj-k@proton.me  
 🔗 [LinkedIn](https://linkedin.com/in/bhuvan-raj-2046b92b9/)
 
 ---
+## Achievements and Certifications
 
+**PixelExperience/EvolutionX ROM maintainer and tester for POCO X3 Pro (BHIMA)**
+
+**[Oracle Certified AI foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=BA0F6578EC959DB5EBDC3B83FCFE70B4B819F4F6A491035ADE05E10B4CE64D9A)**
 
 ## Support My Work
 
