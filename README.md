@@ -3,7 +3,7 @@
 **DevOps | DevSecOps | InfraManagement | Open-Source Advocate**
 
 📍 India  
-📧 bhuvanraj107123@gmail.com  
+📧 bhuvanraj-k@proton.me  
 🔗 [LinkedIn](https://linkedin.com/in/bhuvan-raj-2046b92b9/)
 
 ---
