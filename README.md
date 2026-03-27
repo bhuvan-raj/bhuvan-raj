@@ -8,8 +8,6 @@
 
 ---
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=bhuvan-raj&theme=dark&hide_border=false)
-
 
 ## Support My Work
 
