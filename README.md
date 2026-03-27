@@ -9,9 +9,13 @@
 ---
 ## Achievements and Certifications
 
-**PixelExperience/EvolutionX ROM maintainer and tester for POCO X3 Pro (BHIMA)**
 
-**[Oracle Certified AI foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=BA0F6578EC959DB5EBDC3B83FCFE70B4B819F4F6A491035ADE05E10B4CE64D9A)**
+
+- **[Oracle Certified AI foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=BA0F6578EC959DB5EBDC3B83FCFE70B4B819F4F6A491035ADE05E10B4CE64D9A)**
+
+- **[OCI 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B4E059C1DF86A12FD604D03D2D42F3C1C2C75DB4FF9E4EA70608A1E796495FDE)**
+
+- **PixelExperience/EvolutionX ROM maintainer and tester for POCO X3 Pro (BHIMA)**
 
 ## Support My Work
 
