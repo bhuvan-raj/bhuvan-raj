@@ -1,6 +1,6 @@
 <img src="https://github.com/bhuvan-raj/bhuvan-raj/blob/main/assets/IMG_4692.gif" alt="Banner" width="100%" height="320"/>
 
-**DevSecOps| MLOps(Aspiring) | PlatformEngineering | Dart Dev**
+**DevSecOps| MLOps(Aspiring) | PlatformEngineering | Dart Developer**
 
 📍 India  
 📧 bhuvanraj-k@proton.me  
