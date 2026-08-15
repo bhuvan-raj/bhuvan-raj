@@ -22,7 +22,7 @@
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://coff.ee/bhuvan.raj)
 
-🧠 Learning Philosophy
+
 
 > **“The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice.”**  
 > — *Brian Herbert*
