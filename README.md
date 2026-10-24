@@ -18,6 +18,20 @@
 
 - **PixelExperience/EvolutionX ROM maintainer and tester for POCO X3 Pro (BHIMA)**
 
+<div align="center">
+  <a href="https://github.com/DeveloperFusionStudio">
+    <img src="https://github.com/DeveloperFusionStudio.png"
+         width="120"
+         alt="GitHub Organization Logo">
+  </a>
+  <h3>
+    <a href="https://github.com/YOUR-ORG-NAME">
+      YOUR ORGANIZATION NAME
+    </a>
+  </h3>
+</div>
+
+
 ## Support My Work
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://coff.ee/bhuvan.raj)
