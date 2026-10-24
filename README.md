@@ -25,8 +25,8 @@
          alt="GitHub Organization Logo">
   </a>
   <h3>
-    <a href="https://github.com/YOUR-ORG-NAME">
-      YOUR ORGANIZATION NAME
+    <a href="https://github.com/DeveloperFusionStudio">
+      DevFusionStudio
     </a>
   </h3>
 </div>
