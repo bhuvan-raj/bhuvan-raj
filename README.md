@@ -18,8 +18,11 @@
 
 - **PixelExperience/EvolutionX ROM maintainer and tester for POCO X3 Pro (BHIMA)**
 
+---
+
 **[Explore my Organisation](https://github.com/DeveloperFusionStudio)**
 
+---
 
 ## Support My Work
 
